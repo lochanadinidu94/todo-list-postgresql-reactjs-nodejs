@@ -1,0 +1,14 @@
+Read me....
+
+DATABASE Server :
+
+PostgreSQL
+Connect Details: 
+	user: 'dinidulochana',
+    host: 'localhost',
+    database: 'todolist',
+    password: '1234',
+    port: 5432,
+
+Front End : React (Matrial UI v4)
+BackEND : NodeJS
